@@ -32,6 +32,13 @@
       image: amir.jpg
       email: amirb4r [at] gmail.com
 
+    - name: Yutong Bai
+      website: https://yutongbai.com
+      research_interest: Generative Modeling
+      image: yutong.png
+      email: ytongbai [at] gmail.com
+    
+
 - title: PhD Students
   people:
     - name: Rodolfo Corona
